@@ -2,7 +2,7 @@
 # Programmer:    Craig Stuart Sapp <craig@ccrma.stanford.edu>
 # Creation Date: Tue Dec 30 15:43:39 PST 2014
 # Last Modified: Wed Dec 31 19:56:01 PST 2014
-# Filename:      .../test/Makefile
+# Filename:      test/Makefile
 # Syntax:        GNU Makefile
 #
 # Description:   Run tests on the RationalNumber class.
